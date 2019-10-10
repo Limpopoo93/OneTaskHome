@@ -1,0 +1,21 @@
+.buttonRegUser{
+    width: 50px; height: 50px;
+}
+.buttonComeUser{
+    width: 50px; height: 50px;
+}
+.buttonAddUser{
+    width: 50px; height: 50px;
+}
+.buttonDeleteUser{
+    width: 50px; height: 50px;
+}
+.buttonOut{
+    width: 50px; height: 50px;
+}
+.body{
+   background-color: #00FA9A;
+}
+.divHead{
+    background: #1820fa;
+}
